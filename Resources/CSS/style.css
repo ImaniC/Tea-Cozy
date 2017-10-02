@@ -185,6 +185,7 @@ h4  {
 .location3 p {
 	font-weight: bold;
 	justify-content: space-around;
+	align-items: center;
 }
 
 .end {
